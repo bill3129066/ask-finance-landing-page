@@ -1,17 +1,8 @@
 {
   "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "language": "en",
-  "social": [
-    {
-      "title": "Twitter",
-      "url": "https://twitter.com/#"
-    },
-    {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
-    }
-  ]
+  "author": "A.S.K Team",
+  "description": "A.S.K - The Best Place in the World to Securely Store & Grow Your BTC",
+  "title": "A.S.K - Securely Store & Grow Your BTC",
+  "language": "en"
 }
+
